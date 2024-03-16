@@ -5,13 +5,14 @@
 
 ---
 ## Outlines:
-> #### Chapter 1: Introduction to Linux
-    >> ~~1.1 Linux is Everywhere~~
-    >> 1.2 Linux is a Kernel
-    >> ~~1.3 Linux is Open Source~~
-    >> 1.4 Linux Has Distributions
-    >> 1.5 Linux Embraces the CLI
-> #### Chapter 2: Operating Systems
-    >> 1.1 
-> #### Chapter 3:
-    >> in porcessing...
+> Chapter 1: Introduction to Linux
+>
+>> 1. Linux is a Kernel
+>>
+>> 2. Linux Has Distributions
+>>
+>> 3. Linux Embraces the CLI
+>> 
+> Chapter 2: Operating Systems
+> 
+> Chapter 3: ...
